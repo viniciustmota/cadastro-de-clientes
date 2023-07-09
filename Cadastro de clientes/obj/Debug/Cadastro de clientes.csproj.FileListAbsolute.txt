@@ -1,0 +1,10 @@
+C:\Users\Fatec\Desktop\Cadastro de clientes\Cadastro de clientes\Cadastro de clientes\bin\Debug\Cadastro de clientes.exe.config
+C:\Users\Fatec\Desktop\Cadastro de clientes\Cadastro de clientes\Cadastro de clientes\bin\Debug\Cadastro de clientes.exe
+C:\Users\Fatec\Desktop\Cadastro de clientes\Cadastro de clientes\Cadastro de clientes\bin\Debug\Cadastro de clientes.pdb
+C:\Users\Fatec\Desktop\Cadastro de clientes\Cadastro de clientes\Cadastro de clientes\obj\Debug\Cadastro de clientes.csproj.AssemblyReference.cache
+C:\Users\Fatec\Desktop\Cadastro de clientes\Cadastro de clientes\Cadastro de clientes\obj\Debug\Cadastro_de_clientes.Form1.resources
+C:\Users\Fatec\Desktop\Cadastro de clientes\Cadastro de clientes\Cadastro de clientes\obj\Debug\Cadastro_de_clientes.Properties.Resources.resources
+C:\Users\Fatec\Desktop\Cadastro de clientes\Cadastro de clientes\Cadastro de clientes\obj\Debug\Cadastro de clientes.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\Cadastro de clientes\Cadastro de clientes\Cadastro de clientes\obj\Debug\Cadastro de clientes.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\Cadastro de clientes\Cadastro de clientes\Cadastro de clientes\obj\Debug\Cadastro de clientes.exe
+C:\Users\Fatec\Desktop\Cadastro de clientes\Cadastro de clientes\Cadastro de clientes\obj\Debug\Cadastro de clientes.pdb
